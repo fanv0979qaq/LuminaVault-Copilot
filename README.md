@@ -1,2 +1,3 @@
 # LuminaVault-Copilot
-Self-hosted iOS photo library backup and restore, built with GitHub Copilot.
+
+A self-hosted iOS photo library backup and restore system.
